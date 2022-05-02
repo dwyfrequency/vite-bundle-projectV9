@@ -25,5 +25,6 @@ async function component() {
 
 document.body.appendChild(component());
 
-// WITH NO CONFIG, -rw-r--r--  1 jackdwyer  primarygroup   187K Apr 18 17:38 dist/main.js
+// WITH NO CONFIG, dist/assets/index.b3752774.js      249.88 KiB
+// Same size as "firebase": "^9.6.11" interesting
 // Run `ls -lh dist/main.js` to get the above
